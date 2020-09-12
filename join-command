@@ -1,0 +1,3 @@
+# update this file with your master host and join token
+kubeadm join your-mater-host:6443 --token uclc0v.t0obkvwmlunyxmab \
+    --discovery-token-ca-cert-hash sha256:9a3136fe125181d76a552420746f3b23f1acd427a7cfded2f3eef84b1f6038ff
